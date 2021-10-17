@@ -1,0 +1,15 @@
+{
+  "name": "guiaperguntas",
+  "version": "1.0.0",
+  "description": "Uma plataforma de perguntas e respostas estilo Yahoo respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Rosa",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
